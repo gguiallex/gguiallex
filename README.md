@@ -26,13 +26,13 @@
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: alexandregui013@gmail.com">
-      <img width="30" src="icons8-gmail.svg">
+      <img width="30" src="">
     </a>
     <a href = "www.linkedin.com/in/guialexsilvaa">
-      <img width="25" src="linkedin.svg">
+      <img width="25" src="icons8-linkedin.svg">
     </a>
     <a href = "https://www.instagram.com/gguiallex/">
-      <img width="25" src="instagram.png">
+      <img width="25" src="icons8-instagram.svg">
     </a>
 </div>
 
