@@ -4,7 +4,7 @@
 - 🌱 Cursando Sistemas de Informação
 - 😄 Pronouns: Ele/Dele
 
-- <div>
+<div>
   
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=gguiallex&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gguiallex&layout=compact&langs_count=16&theme=holi"/>
