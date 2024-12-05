@@ -1,7 +1,7 @@
 ## Olá!!! Eu sou o Guilherme Alexandre Silva
 
-- 🔭 Hoje busco um estagio voltado na área da programação
-- 🌱 Cursando Sistemas de Informação
+- 🔭 Buscando um estagio voltado na área da programação
+- 🌱 Cursando Sistemas de Informação(Bacharelado) na Universidade Federal de Lavras
 - 😄 Pronouns: Ele/Dele
 
 <div>
@@ -13,7 +13,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="gif-boy" src="gif-boy">
+    <img align="left" height="250" alt="gif-boy" src="gif-boy.gif">
     <h1 align="center">Melhores Tecnologias <3</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
@@ -25,13 +25,13 @@
     
   
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: alexandregui013@gmail.com">
-      <img width="30" src="">
+    <a href = "mailto: alexandregui013@gmail.com" style="text-decoration: none;">
+      <img width="25" src="icons8-gmail.svg">
     </a>
-    <a href = "www.linkedin.com/in/guialexsilvaa">
+    <a href = "www.linkedin.com/in/guialexsilvaa" style="text-decoration: none;">
       <img width="25" src="icons8-linkedin.svg">
     </a>
-    <a href = "https://www.instagram.com/gguiallex/">
+    <a href = "https://www.instagram.com/gguiallex/" style="text-decoration: none;">
       <img width="25" src="icons8-instagram.svg">
     </a>
 </div>
