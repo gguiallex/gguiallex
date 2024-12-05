@@ -1,8 +1,9 @@
 ## Olá!!! Eu sou o Guilherme Alexandre Silva
 
-- 🔭 Buscando um estagio voltado na área da programação
+- 🔭 Hoje eu sou desenvolvedor Front-End e Gerente de Marketing na Emakers Jr.
+- 💼 Estou buscando um estagio voltado na área da programação
 - 🌱 Cursando Sistemas de Informação(Bacharelado) na Universidade Federal de Lavras
-- 😄 Pronouns: Ele/Dele
+- 😄 Pronomes: Ele/Dele
 
 <div>
   
@@ -14,9 +15,10 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="gif-boy" src="gif-boy.gif">
-    <h1 align="center">Melhores Tecnologias <3</h1>
+    <h1 align="center">Tecnologias Já Utilizadas</h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+    <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
