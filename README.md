@@ -1,10 +1,12 @@
-## Olá!!! Eu sou o Guilherme Alexandre Silva
-
-- 🔭 Hoje eu sou desenvolvedor Front-End e Gerente de Marketing na Emakers Jr.
-- 💼 Estou buscando um estagio voltado na área da programação
-- 🌱 Cursando Sistemas de Informação(Bacharelado) na Universidade Federal de Lavras
-- 😄 Pronomes: Ele/Dele
-
+ <!--## Olá!!! Eu sou o Guilherme Alexandre Silva
+ 🔭 Hoje eu sou desenvolvedor Front-End e Gerente de Marketing na Emakers Jr.
+  💼 Estou buscando um estagio voltado na área da programação
+  🌱 Cursando Sistemas de Informação(Bacharelado) na Universidade Federal de Lavras
+  😄 Pronomes: Ele/Dele -->
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=200&center=true&vCenter=true&width=600&lines=Hey+todo+mundo!;Eu+sou+o+Guilherme+Alexandre+Cunha%2C;Tenho+19+anos;Meus+pronomes+s%C3%A3o+Ele%2FDele;Sou+desenvolvedor+Front-End+e+;Gerente+de+Marketing+na+Emakers+Jr." alt="Typing SVG" /></a>
+</div>
+<br>
 <div>
   
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=gguiallex&show_icons=true&theme=holi&include_all_commits=true&count_private=true"/>
@@ -28,15 +30,15 @@
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: alexandregui013@gmail.com" style="text-decoration: none;">
-      <img width="25" src="icons8-gmail.svg">
+      <img width="40" src="icons8-gmail.svg">
     </a>
     <a href = "www.linkedin.com/in/guialexsilvaa" style="text-decoration: none;">
-      <img width="25" src="icons8-linkedin.svg">
+      <img width="40" src="icons8-linkedin.svg">
     </a>
     <a href = "https://www.instagram.com/gguiallex/" style="text-decoration: none;">
-      <img width="25" src="icons8-instagram.svg">
+      <img width="40" src="icons8-instagram.svg">
     </a>
 </div>
 
-![Snake animation](https://github.com/gguiallex/gguiallex/blob/output/github-contribution-grid-snake.svg)
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/gguiallex/gguiallex/output/github-contribution-grid-snake.svg" />
 
