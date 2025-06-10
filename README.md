@@ -4,7 +4,7 @@
   🌱 Cursando Sistemas de Informação(Bacharelado) na Universidade Federal de Lavras
   😄 Pronomes: Ele/Dele -->
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=200&center=true&vCenter=true&width=600&lines=Hey+todo+mundo!;Eu+sou+o+Guilherme+Alexandre+Cunha%2C;Tenho+19+anos;Meus+pronomes+s%C3%A3o+Ele%2FDele;Sou+desenvolvedor+Front-End+e+;Gerente+de+Marketing+na+Emakers+Jr." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=200&center=true&vCenter=true&width=600&lines=Hey+todo+mundo!;Eu+sou+o+Guilherme+Alexandre+Cunha%2C;Tenho+20+anos;Meus+pronomes+s%C3%A3o+Ele%2FDele;Sou+desenvolvedor+Front-End+e+;Gerente+de+Marketing+na+Emakers+Jr." alt="Typing SVG" /></a>
 </div>
 <br>
 <div>
